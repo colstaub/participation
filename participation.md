@@ -37,4 +37,14 @@ Nothing was very confusing. I have used GIT before (mostly as SVN) and have used
  
  The micro text editor was kind of confusing, and seems very hard to use and would be easy to mess something up with. 
  
+ # Lecture 4
  
+ ## How did I prepare before lecure?
+ 
+ I skimed the pages assigned in the linux command line book, and looked over the page for today's lecture. 
+ 
+ ## How did I contrubute durring lecture?
+ I helped annother student who is also TAing ME400 with making the new VScode work with the tools for the class. 
+
+## What was or is the most confusing thing? 
+I was unable to open the c.txt without the bash command preceeding it. Running the file also gave errors and did not print hello world. 
