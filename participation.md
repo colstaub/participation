@@ -48,3 +48,41 @@ Nothing was very confusing. I have used GIT before (mostly as SVN) and have used
 
 ## What was or is the most confusing thing? 
 I was unable to open the c.txt without the bash command preceeding it. Running the file also gave errors and did not print hello world. 
+
+# Lecture 5
+
+ ## How did I prepare before lecure?
+ 
+ I skimed the pages assigned in the linux command line book, looked over the module page and slides for class. I also looked at the bash cheat sheet and compared it to the C and Python cheat sheets. 
+ 
+ ## How did I contrubute durring lecture?
+ I followed along with the demonstrations in lecture. 
+
+## What was or is the most confusing thing? 
+The diffrence between $a and a (where a is any variable) is still confusing to me because it doesnt seem to work the same way it does for you on my computer. 
+
+# Lecture 6
+
+## How did I prepare before lecure
+ 
+I looked at the module for today's lecture and looked at the Git cheat sheet. I have used svn before, although it has been several years so many of the basic commands were familiar. 
+ 
+## How did I contrubute durring lecture?
+I followed along with the demonstrations and sucessfuly edited my homework 1 file throught the command line. 
+
+## What was or is the most confusing thing? 
+Everything today was mostly a refresher for me. The workings of Git seem to mostly be the same as svn, the whole trunk and master part is confusing however. 
+
+
+# Lecture 7
+
+## How did I prepare before lecure
+ 
+I looked at the module for today's lecture and looked over HW2. 
+ 
+## How did I contrubute durring lecture?
+
+
+
+## What was or is the most confusing thing? 
+
