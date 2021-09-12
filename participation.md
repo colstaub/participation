@@ -82,7 +82,21 @@ I looked at the module for today's lecture and looked over HW2.
  
 ## How did I contrubute durring lecture?
 
+I followed along with the lecture of working with Git.  
 
 
 ## What was or is the most confusing thing? 
+This lecture was pretty straight forward for me, just following along with the tasks as they come. 
 
+# Lecture 8
+
+## How did I prepare before lecure
+
+I did very little to prepare other than reviewing the process of git cloning, and the whole add, commit, push routine before class. 
+
+## How did I contrubute durring lecture?
+
+I followed along with the class and made the changes to the readme file as I needed to for HW2. 
+
+## What was or is the most confusing thing? 
+I was confused at first about the pull request untill I relized it had to be done through the web browser not in linux. 
